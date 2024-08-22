@@ -1,2 +1,2 @@
-# C-
+# C++
 ALL C++ projects here
